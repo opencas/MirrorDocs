@@ -30,5 +30,5 @@
 中国科技网为中科院开源软件协会镜像站的建立提供了大力支持。提供百兆至千兆带宽。中国科学院内部使用IPv6访问镜像站将不限流量高速下载。
 ##合作与联系###同步与新增建议
 如需从OpenCAS镜像站进行同步或建议新增镜像，请提前联系镜像管理员 [admin@opencas.org](mailto:admin@opencas.org)。
-###合作与支持OpenCAS是由一群热爱开源精神，热爱技术分享的中国科学院大学研究生组成，大家凭借纯粹的爱好与热情聚集在此，在Acer 宏碁和中国科技网的无偿帮助下建立了OpenCAS镜像站。如果您希望帮助我们做的更好，请与我们取得联系 陈新宇([jasinechen@gmail.com](mailto:jasinechen@gmail.com))，我们期待您的支持与合作。
+###合作与支持OpenCAS是由一群热爱开源精神，热爱技术分享的中国科学院大学研究生组成，大家凭借纯粹的爱好与热情聚集在此，在Acer 宏碁和中国科技网的无偿帮助下建立了OpenCAS镜像站。如果您希望帮助我们做的更好，请与我们取得联系 陈新宇 [jasinechen@gmail.com](mailto:jasinechen@gmail.com)，我们期待您的支持与合作。
 ###支付宝捐助`jasinechen@gmail.com`
