@@ -5,4 +5,5 @@
 `npm set registry https://npm.opencas.cn/`
 
 或编辑 ~/.npmrc 添加
+
 `registry=https://npm.opencas.cn`
