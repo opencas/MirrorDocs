@@ -8,3 +8,20 @@ Apache ArchLinux Centos CRAN CTAN Cygwin Deepin Deepin-cd Eclipse EPEL Gentoo GN
 ### Tools & Language
 
 Sphinx with reStructuredText.
+
+### Local Test
+
+1\. Install Python 3 & Pip
+
+2\. Install requirements
+
+```
+$ pip3 install -r requirements.txt
+```
+
+3\. Build & Test
+
+```
+$ make html
+$ open ./build/html/index.html
+```
