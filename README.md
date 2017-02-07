@@ -1,15 +1,15 @@
 OpenCAS MirrorDocs
 =======
 
-### Syncing Mirrors
+## Syncing Mirrors
 
 Apache ArchLinux Centos CRAN CTAN Cygwin Deepin Deepin-cd Eclipse EPEL Gentoo GNU Mariadb Pypi Raspbian Ubuntu Ubuntu-Release Ubuntu-Vargrant
 
-### Tools & Language
+## Tools & Language
 
 Sphinx with reStructuredText.
 
-### Contribute
+## Contribute
 
 0\. Fork
 
@@ -29,7 +29,7 @@ The mirror URL is: `http://mirrors.opencas.org/MIRRORNAME/`
 
 5\. Pull Request
 
-### Local Test
+## Local Test
 
 1\. Install Python 3 & Pip
 
