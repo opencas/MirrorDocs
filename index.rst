@@ -29,15 +29,16 @@ OpenCAS镜像站当前已收录的镜像如下：
    eclipse
    epel
    gentoo
+   gentoo-portage
    gnu
    mariadb
    pypi
    raspbian
    ubuntu
    ubuntu-release
-   ubuntu-vargrant
+   ubuntu-cloud
 
-其中CentOS，EPEL，CRAN，Apache 已被官方源列表收录。
+其中 CentOS，EPEL，CRAN，Apache 已被官方源列表收录。
 
 同时我们也正在申请其他镜像的官方认证。
 
