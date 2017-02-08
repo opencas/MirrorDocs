@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = OpenCASMirrorHelp
 SOURCEDIR     = .
-BUILDDIR      = build
+BUILDDIR      = /data/docs
 
 # Put it first so that "make" without argument is like "make help".
 help:
