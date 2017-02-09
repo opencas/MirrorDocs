@@ -15,6 +15,7 @@ Cygwin 镜像使用帮助
 2. 选择 ``Install from Internet``, 在 ``User URL`` 处输入
 
 ::
+
     http://mirrors.opencas.org/cygwin/
 
 3. 点击 ``Add`` 按钮, 然后选中 ``http://mirrors.opencas.org/``, 点击”下一步”进行安装

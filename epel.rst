@@ -85,7 +85,7 @@ EPEL 镜像使用帮助
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6
     gpgcheck=1
 
-**CentOS 5:**
+**CentOS 7:**
 
 ::
 
