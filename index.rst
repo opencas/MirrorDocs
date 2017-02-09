@@ -22,6 +22,7 @@ OpenCAS镜像站当前已收录的镜像如下：
    centos
    cran
    ctan
+   ubuntu
 
 .. todo::
    cygwin
