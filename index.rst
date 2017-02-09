@@ -16,13 +16,14 @@ OpenCAS镜像站当前已收录的镜像如下：
 .. toctree::
    :maxdepth: 1
 
-   centos
-
-.. todo::
    apahce
    archlinux
+   archlinuxcn
+   centos
    cran
    ctan
+
+.. todo::
    cygwin
    deepin
    deepin-cd
