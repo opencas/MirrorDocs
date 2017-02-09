@@ -22,28 +22,22 @@ OpenCAS镜像站当前已收录的镜像如下：
    centos
    cran
    ctan
-   ubuntu
-
-.. todo::
    cygwin
    deepin
    deepin-cd
    eclipse
    epel
+   ubuntu
+
+.. todo::
    gentoo
    gentoo-portage
    gnu
    mariadb
    pypi
    raspbian
-   ubuntu
    ubuntu-release
    ubuntu-cloud
-
-其中 CentOS，EPEL，CRAN，Apache 已被官方源列表收录。
-
-同时我们也正在申请其他镜像的官方认证。
-
 
 
 中国科技网高速网络支持
@@ -63,7 +57,7 @@ OpenCAS镜像站当前已收录的镜像如下：
 合作与支持
 ----------
 
-OpenCAS是由一群热爱开源精神，热爱技术分享的中国科学院大学研究生组成，大家凭借纯粹的爱好与热情聚集在此，在Acer 宏碁和中国科技网的无偿帮助下建立了OpenCAS镜像站。如果您希望帮助我们做的更好，请与我们取得联系 陈新宇 `jasinechen@gmail.com <mailto:jasinechen@gmail.com>`_ ，我们期待您的支持与合作。
+OpenCAS是由一群热爱开源精神，热爱技术分享的中国科学院大学研究生组成，大家凭借纯粹的爱好与热情聚集在此，在Acer 宏碁和中国科技网的无偿帮助下建立了OpenCAS镜像站。如果您希望帮助我们做的更好，请与我们取得联系 `admin@opencas.org <mailto:admin@opencas.org>`_，我们期待您的支持与合作。
 
 支付宝捐助
 ----------
