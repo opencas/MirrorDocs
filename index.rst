@@ -27,6 +27,7 @@ OpenCAS镜像站当前已收录的镜像如下：
    deepin-cd
    eclipse
    epel
+   ubuntu
    ubuntu-cloud
 
 .. todo::
@@ -36,7 +37,6 @@ OpenCAS镜像站当前已收录的镜像如下：
    mariadb
    pypi
    raspbian
-   ubuntu
    ubuntu-release
 
 
