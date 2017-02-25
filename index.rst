@@ -27,12 +27,12 @@ OpenCAS镜像站当前已收录的镜像如下：
    deepin-cd
    eclipse
    epel
+   gentoo
    openthos
    ubuntu
    ubuntu-cloud
 
 .. todo::
-   gentoo
    gentoo-portage
    gnu
    mariadb
