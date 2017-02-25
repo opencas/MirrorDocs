@@ -28,7 +28,10 @@ OpenCAS镜像站当前已收录的镜像如下：
    eclipse
    epel
    gentoo
+   openthos
    ubuntu
+   ubuntu-cloud
+
 .. todo::
    gentoo-portage
    gnu
@@ -36,7 +39,6 @@ OpenCAS镜像站当前已收录的镜像如下：
    pypi
    raspbian
    ubuntu-release
-   ubuntu-cloud
 
 
 中国科技网高速网络支持
