@@ -4,7 +4,7 @@ Arch Linux CN 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/archlinuxcn/ <http://mirrors.opencas.org/archlinuxcn/>`_
+`http://mirrors.ucas.ac.cn/archlinuxcn/ <http://mirrors.ucas.ac.cn/archlinuxcn/>`_
 
 镜像简介
 ----------
@@ -21,7 +21,7 @@ Arch Linux 中文社区仓库是由 Arch Linux 中文社区驱动的非官方用
 ::
 
     [archlinuxcn]
-    Server = http://mirrors.opencas.org/archlinuxcn/$arch
+    Server = http://mirrors.ucas.ac.cn/archlinuxcn/$arch
 
 2. 运行 ``sudo pacman -Syy && sudo pacman -S archlinuxcn-keyring`` 以更新缓存并导入 PGP Keys
 

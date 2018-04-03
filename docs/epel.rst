@@ -4,7 +4,7 @@ EPEL 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/epel/ <http://mirrors.opencas.org/epel/>`_
+`http://mirrors.ucas.ac.cn/epel/ <http://mirrors.ucas.ac.cn/epel/>`_
 
 使用帮助
 ----------
@@ -29,7 +29,7 @@ EPEL 镜像使用帮助
 
     [epel]
     name=Extra Packages for Enterprise Linux 5 - $basearch
-    baseurl=http://mirrors.opencas.org/epel/5/$basearch
+    baseurl=http://mirrors.ucas.ac.cn/epel/5/$basearch
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-5&arch=$basearch
     failovermethod=priority
     enabled=1
@@ -38,7 +38,7 @@ EPEL 镜像使用帮助
 
     [epel-debuginfo]
     name=Extra Packages for Enterprise Linux 5 - $basearch - Debug
-    baseurl=http://mirrors.opencas.org/epel/5/$basearch/debug
+    baseurl=http://mirrors.ucas.ac.cn/epel/5/$basearch/debug
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-debug-5&arch=$basearch
     failovermethod=priority
     enabled=0
@@ -47,7 +47,7 @@ EPEL 镜像使用帮助
 
     [epel-source]
     name=Extra Packages for Enterprise Linux 5 - $basearch - Source
-    baseurl=http://mirrors.opencas.org/epel/5/SRPMS
+    baseurl=http://mirrors.ucas.ac.cn/epel/5/SRPMS
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-source-5&arch=$basearch
     failovermethod=priority
     enabled=0
@@ -60,7 +60,7 @@ EPEL 镜像使用帮助
 
     [epel]
     name=Extra Packages for Enterprise Linux 6 - $basearch
-    baseurl=http://mirrors.opencas.org/epel/6/$basearch
+    baseurl=http://mirrors.ucas.ac.cn/epel/6/$basearch
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-6&arch=$basearch
     failovermethod=priority
     enabled=1
@@ -69,7 +69,7 @@ EPEL 镜像使用帮助
 
     [epel-debuginfo]
     name=Extra Packages for Enterprise Linux 6 - $basearch - Debug
-    baseurl=http://mirrors.opencas.org/epel/6/$basearch/debug
+    baseurl=http://mirrors.ucas.ac.cn/epel/6/$basearch/debug
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-debug-6&arch=$basearch
     failovermethod=priority
     enabled=0
@@ -78,7 +78,7 @@ EPEL 镜像使用帮助
 
     [epel-source]
     name=Extra Packages for Enterprise Linux 6 - $basearch - Source
-    baseurl=http://mirrors.opencas.org/epel/6/SRPMS
+    baseurl=http://mirrors.ucas.ac.cn/epel/6/SRPMS
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-source-6&arch=$basearch
     failovermethod=priority
     enabled=0
@@ -91,7 +91,7 @@ EPEL 镜像使用帮助
 
     [epel]
     name=Extra Packages for Enterprise Linux 7 - $basearch
-    baseurl=http://mirrors.opencas.org/epel/7/$basearch
+    baseurl=http://mirrors.ucas.ac.cn/epel/7/$basearch
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-7&arch=$basearch
     failovermethod=priority
     enabled=1
@@ -100,7 +100,7 @@ EPEL 镜像使用帮助
 
     [epel-debuginfo]
     name=Extra Packages for Enterprise Linux 7 - $basearch - Debug
-    baseurl=http://mirrors.opencas.org/epel/7/$basearch/debug
+    baseurl=http://mirrors.ucas.ac.cn/epel/7/$basearch/debug
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-debug-7&arch=$basearch
     failovermethod=priority
     enabled=0
@@ -109,7 +109,7 @@ EPEL 镜像使用帮助
 
     [epel-source]
     name=Extra Packages for Enterprise Linux 7 - $basearch - Source
-    baseurl=http://mirrors.opencas.org/epel/7/SRPMS
+    baseurl=http://mirrors.ucas.ac.cn/epel/7/SRPMS
     #mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-source-7&arch=$basearch
     failovermethod=priority
     enabled=0

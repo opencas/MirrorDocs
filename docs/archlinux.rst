@@ -4,7 +4,7 @@ Arch Linux 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/archlinux/ <http://mirrors.opencas.org/archlinux/>`_
+`http://mirrors.ucas.ac.cn/archlinux/ <http://mirrors.ucas.ac.cn/archlinux/>`_
 
 使用帮助
 ----------
@@ -13,7 +13,7 @@ Arch Linux 镜像使用帮助
 
 ::
 
-    Server = http://mirrors.opencas.org/archlinux/$repo/os/$arch
+    Server = http://mirrors.ucas.ac.cn/archlinux/$repo/os/$arch
 
 2. 运行 ``sudo pacman -Syy`` 以更新缓存
 

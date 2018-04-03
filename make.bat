@@ -7,9 +7,9 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set SOURCEDIR=.
-set BUILDDIR=build
-set SPHINXPROJ=OpenCASMirrorHelp
+set SOURCEDIR=./docs
+set BUILDDIR=./build
+set SPHINXPROJ=UCASMirrorDocs
 
 if "%1" == "" goto help
 

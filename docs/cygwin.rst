@@ -4,7 +4,7 @@ Cygwin 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/cygwin/ <http://mirrors.opencas.org/cygwin/>`_
+`http://mirrors.ucas.ac.cn/cygwin/ <http://mirrors.ucas.ac.cn/cygwin/>`_
 
 
 使用帮助
@@ -16,9 +16,9 @@ Cygwin 镜像使用帮助
 
 ::
 
-    http://mirrors.opencas.org/cygwin/
+    http://mirrors.ucas.ac.cn/cygwin/
 
-3. 点击 ``Add`` 按钮, 然后选中 ``http://mirrors.opencas.org/``, 点击”下一步”进行安装
+3. 点击 ``Add`` 按钮, 然后选中 ``http://mirrors.ucas.ac.cn/``, 点击”下一步”进行安装
 
 注意不要勾选不需要的镜像。
 

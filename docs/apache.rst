@@ -4,7 +4,7 @@ Apache 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/apache/ <http://mirrors.opencas.org/apache/>`_
+`http://mirrors.ucas.ac.cn/apache/ <http://mirrors.ucas.ac.cn/apache/>`_
 
 使用帮助
 ----------

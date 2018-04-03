@@ -4,7 +4,7 @@ GENTOO 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/gentoo/ <http://mirrors.opencas.org/gentoo/>`_
+`http://mirrors.ucas.ac.cn/gentoo/ <http://mirrors.ucas.ac.cn/gentoo/>`_
 
 
 使用帮助
@@ -13,7 +13,7 @@ GENTOO 镜像使用帮助
 新建或修改 ``/etc/portage/repos.conf``：
 ::
 
-	GENTOO_MIRRORS="http://mirrors.opencas.org/gentoo/"
+	GENTOO_MIRRORS="http://mirrors.ucas.ac.cn/gentoo/"
 
 
 相关连接

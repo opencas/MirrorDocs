@@ -1,10 +1,10 @@
 Ubuntu-Cloud 镜像使用帮助
-======================
+===========================
 
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/ubuntu-cloud/ <http://mirrors.opencas.org/ubuntu-cloud/>`_
+`http://mirrors.ucas.ac.cn/ubuntu-cloud/ <http://mirrors.ucas.ac.cn/ubuntu-cloud/>`_
 
 使用帮助
 ----------

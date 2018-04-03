@@ -4,7 +4,7 @@ Deepin-CD 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/deepin-cd/ <http://mirrors.opencas.org/deepin-cd/>`_
+`http://mirrors.ucas.ac.cn/deepin-cd/ <http://mirrors.ucas.ac.cn/deepin-cd/>`_
 
 
 使用帮助

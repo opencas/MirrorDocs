@@ -4,7 +4,7 @@ CTAN 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/ctan/ <http://mirrors.opencas.org/ctan/>`_
+`http://mirrors.ucas.ac.cn/ctan/ <http://mirrors.ucas.ac.cn/ctan/>`_
 
 
 使用帮助

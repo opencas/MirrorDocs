@@ -4,7 +4,7 @@ Openthos 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/openthos/ <http://mirrors.opencas.org/openthos/>`_
+`http://mirrors.ucas.ac.cn/openthos/ <http://mirrors.ucas.ac.cn/openthos/>`_
 
 镜像简介
 ----------

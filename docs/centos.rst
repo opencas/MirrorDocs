@@ -4,7 +4,7 @@ CentOS 镜像使用帮助
 镜像地址
 ----------
 
-`http://mirrors.opencas.org/centos/ <http://mirrors.opencas.org/centos/>`_
+`http://mirrors.ucas.ac.cn/centos/ <http://mirrors.ucas.ac.cn/centos/>`_
 
 使用帮助
 ----------
@@ -35,7 +35,7 @@ CentOS 镜像使用帮助
 
     [base]
     name=CentOS-$releasever - Base
-    baseurl=http://mirrors.opencas.org/centos/$releasever/os/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/os/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=os
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5
@@ -43,7 +43,7 @@ CentOS 镜像使用帮助
     #released updates
     [updates]
     name=CentOS-$releasever - Updates
-    baseurl=http://mirrors.opencas.org/centos/$releasever/updates/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/updates/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=updates
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5
@@ -51,7 +51,7 @@ CentOS 镜像使用帮助
     #additional packages that may be useful
     [extras]
     name=CentOS-$releasever - Extras
-    baseurl=http://mirrors.opencas.org/centos/$releasever/extras/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/extras/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=extras
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5
@@ -59,7 +59,7 @@ CentOS 镜像使用帮助
     #packages used/produced in the build but not released
     [addons]
     name=CentOS-$releasever - Addons
-    baseurl=http://mirrors.opencas.org/centos/$releasever/addons/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/addons/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=addons
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5
@@ -67,7 +67,7 @@ CentOS 镜像使用帮助
     #additional packages that extend functionality of existing packages
     [centosplus]
     name=CentOS-$releasever - Plus
-    baseurl=http://mirrors.opencas.org/centos/$releasever/centosplus/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/centosplus/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=centosplus
     gpgcheck=1
     enabled=0
@@ -76,7 +76,7 @@ CentOS 镜像使用帮助
     #contrib - packages by Centos Users
     [contrib]
     name=CentOS-$releasever - Contrib
-    baseurl=http://mirrors.opencas.org/centos/$releasever/contrib/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/contrib/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=contrib
     gpgcheck=1
     enabled=0
@@ -100,7 +100,7 @@ CentOS 镜像使用帮助
 
     [base]
     name=CentOS-$releasever - Base
-    baseurl=http://mirrors.opencas.org/centos/$releasever/os/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/os/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=os
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
@@ -108,7 +108,7 @@ CentOS 镜像使用帮助
     #released updates
     [updates]
     name=CentOS-$releasever - Updates
-    baseurl=http://mirrors.opencas.org/centos/$releasever/updates/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/updates/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=updates
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
@@ -116,7 +116,7 @@ CentOS 镜像使用帮助
     #additional packages that may be useful
     [extras]
     name=CentOS-$releasever - Extras
-    baseurl=http://mirrors.opencas.org/centos/$releasever/extras/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/extras/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=extras
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
@@ -124,7 +124,7 @@ CentOS 镜像使用帮助
     #additional packages that extend functionality of existing packages
     [centosplus]
     name=CentOS-$releasever - Plus
-    baseurl=http://mirrors.opencas.org/centos/$releasever/centosplus/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/centosplus/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=centosplus
     gpgcheck=1
     enabled=0
@@ -133,7 +133,7 @@ CentOS 镜像使用帮助
     #contrib - packages by Centos Users
     [contrib]
     name=CentOS-$releasever - Contrib
-    baseurl=http://mirrors.opencas.org/centos/$releasever/contrib/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/contrib/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=contrib
     gpgcheck=1
     enabled=0
@@ -157,7 +157,7 @@ CentOS 镜像使用帮助
 
     [base]
     name=CentOS-$releasever - Base
-    baseurl=http://mirrors.opencas.org/centos/$releasever/os/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/os/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=os
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
@@ -165,7 +165,7 @@ CentOS 镜像使用帮助
     #released updates
     [updates]
     name=CentOS-$releasever - Updates
-    baseurl=http://mirrors.opencas.org/centos/$releasever/updates/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/updates/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=updates
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
@@ -173,7 +173,7 @@ CentOS 镜像使用帮助
     #additional packages that may be useful
     [extras]
     name=CentOS-$releasever - Extras
-    baseurl=http://mirrors.opencas.org/centos/$releasever/extras/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/extras/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=extras
     gpgcheck=1
     gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
@@ -181,7 +181,7 @@ CentOS 镜像使用帮助
     #additional packages that extend functionality of existing packages
     [centosplus]
     name=CentOS-$releasever - Plus
-    baseurl=http://mirrors.opencas.org/centos/$releasever/centosplus/$basearch/
+    baseurl=http://mirrors.ucas.ac.cn/centos/$releasever/centosplus/$basearch/
     #mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=centosplus
     gpgcheck=1
     enabled=0
