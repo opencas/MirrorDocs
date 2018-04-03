@@ -33,6 +33,13 @@ OpenCAS镜像站当前已收录的镜像如下：
    ubuntu
    ubuntu-cloud
 
+.. todo::
+   gentoo-portage
+   gnu
+   mariadb
+   pypi
+   raspbian
+   ubuntu-release
 
 新增建议
 --------------------
