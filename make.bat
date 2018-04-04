@@ -7,7 +7,7 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set SOURCEDIR=./docs
+set SOURCEDIR=./source
 set BUILDDIR=./build
 set SPHINXPROJ=UCASMirrorDocs
 
@@ -27,6 +27,9 @@ if errorlevel 9009 (
 )
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
+RD /S /Q %SOURCEDIR%/html/_static
+RD /S /Q %SOURCEDIR%/html/_sources
+DEL /F /A /Q %SOURCEDIR%/html/searchindex.js %SOURCEDIR%/html/objects.inv %SOURCEDIR%/html/search.html
 goto end
 
 :help

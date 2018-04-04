@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = UCASMirrorDocs
-SOURCEDIR     = ./docs
+SOURCEDIR     = ./source
 BUILDDIR      = ./build
 
 # Put it first so that "make" without argument is like "make help".
@@ -18,3 +18,6 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	\rm -rf "$(BUILDDIR)/html/_static" "$(BUILDDIR)/html/_sources"
+	\rm "$(BUILDDIR)/html/searchindex.js" "$(BUILDDIR)/html/objects.inv" "$(BUILDDIR)/html/search.html"
+

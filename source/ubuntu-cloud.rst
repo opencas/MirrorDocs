@@ -15,5 +15,5 @@ Ubuntu-Cloud 镜像使用帮助
 ---------
 
 :官方主页: https://www.ubuntu.com/cloud/
-:Wiki: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+:Wiki: https://en.wikipedia.org/wiki/Ubuntu_operating_system
 :镜像列表: https://launchpad.net/ubuntu/+cdmirrors

@@ -13,7 +13,7 @@ Ubuntu 镜像使用帮助
 
 ::
 	
-		deb http://mirrors.ucas.ac.cn/ubuntu/ xenial main restricted #deb http://mirrors6.tuna.tsinghua.edu.cn/ubuntu/ xenial-updates main restricted
+		deb http://mirrors.ucas.ac.cn/ubuntu/ xenial main restricted
 		deb http://mirrors.ucas.ac.cn/ubuntu/ xenial universe
 		deb http://mirrors.ucas.ac.cn/ubuntu/ xenial-updates universe
 		deb http://mirrors.ucas.ac.cn/ubuntu/ xenial multiverse
